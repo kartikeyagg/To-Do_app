@@ -4,7 +4,7 @@
 
 
 
-<img title="" src="file:///home/kartikey/Documents/FlutterDev/To_do-APP/SS.png" alt="SS.png" data-align="center">
+<img title="" src="SS.png" alt="SS.png" data-align="center">
 
 
 
